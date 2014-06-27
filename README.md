@@ -6,11 +6,7 @@ Install the gem from the command line. Make sure you have Ruby 1.9+
 
 `gem install dashing`
 
-Generate a new project
-
-`dashing new sweet_dashboard_project`
-
-Change your directory to sweet_dashboard_project and bundle gems
+Change your directory to beerventory-stats and bundle gems
 
 `bundle`
 
