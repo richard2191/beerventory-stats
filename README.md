@@ -1,5 +1,7 @@
 **Beerventory Statistics Page**
 
+![alt tag](https://raw.githubusercontent.com/richard2191/beerventory-stats/master/screenshot.png)
+
 **Getting Started**
 
 Install the gem from the command line. Make sure you have Ruby 1.9+
